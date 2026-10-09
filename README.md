@@ -1,5 +1,4 @@
-# Soheil Masti | معمار ارشد، متخصص ارشد BIM و سرپرست نوآوری دیجیتال
-
+# Soheil Masti | Senior Architect & BIM coordinator
 [![BIMCO Official Platform](https://img.shields.io/badge/Official%20Platform-bimco.es-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bimco.es/)
 [![Interactive 3D Masterplan](https://img.shields.io/badge/Interactive%203D-WebGL%20%2F%20Three.js-black?style=for-the-badge&logo=three.js&logoColor=white)](https://bimco.es/?mode=3d)
 [![ISO 19650 Standard](https://img.shields.io/badge/Standard-ISO%2019650--1%2F2-10b981?style=for-the-badge&logo=codacy&logoColor=white)](https://bimco.es/?view=bim-outsourcing)
